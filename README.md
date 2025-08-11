@@ -69,14 +69,6 @@ source .venv/bin/activate
     </li>
     <li>Install the required packages:
       <pre>pip install -r requirements.txt</pre>
-      <p>Example <code>requirements.txt</code> contents:</p>
-      <pre>
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
       </pre>
     </li>
   </ol>
