@@ -103,7 +103,9 @@ heart-disease-analysis/
     <li>For deployment, consider containerization with Docker and add a <code>Procfile</code> if deploying to Heroku.</li>
   </ul>
   <h3>Screenshots</h3>
-  <p>Add screenshots under an <code>/assets</code> folder and embed them here using &lt;img&gt; tags.</p>
+  <img src="assets/screenshot1.png" alt="Screenshot 1" width="600" />
+  <br />
+  <img src="assets/screenshot2.png" alt="Screenshot 2" width="600" />
 </section>
 
 <footer>
