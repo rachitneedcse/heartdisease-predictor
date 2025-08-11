@@ -28,6 +28,17 @@
   </ul>
 </section>
 
+<section id="pics">
+ 
+  <h3>Screenshots</h3>
+   <img src="assets/Screenshot 2025-08-11 113308.png" alt="Screenshot 1" width="600" />
+  <br />
+  <img src="assets/Screenshot 2025-08-11 113340.png" alt="Screenshot 2" width="600" />
+  <br />
+  <img src="assets/Screenshot 2025-08-11 113544.png" alt="Screenshot 3" width="600" />
+</section>
+
+
 <section id="dataset">
   <h2>Dataset</h2>
   <p>File: <code>modified_heart_dataset.csv</code></p>
@@ -94,24 +105,9 @@ heart-disease-analysis/
   </pre>
 </section>
 
-<section id="notes">
-  <h2>Notes & Recommendations</h2>
-  <ul>
-    <li>Consider adding model evaluation metrics (accuracy, precision, recall, ROC AUC) for deeper insights.</li>
-    <li>Save trained models using <code>joblib</code> or <code>pickle</code> to avoid retraining.</li>
-    <li>Clearly document dataset features and units (e.g., cholesterol in mg/dL).</li>
-    <li>For deployment, consider containerization with Docker and add a <code>Procfile</code> if deploying to Heroku.</li>
-  </ul>
-  <h3>Screenshots</h3>
-   <img src="assets/Screenshot 2025-08-11 113308.png" alt="Screenshot 1" width="600" />
-  <br />
-  <img src="assets/Screenshot 2025-08-11 113340.png" alt="Screenshot 2" width="600" />
-  <br />
-  <img src="assets/Screenshot 2025-08-11 113544.png" alt="Screenshot 3" width="600" />
-</section>
 
 <footer>
-  <p>© Your Name — Heart Disease Analysis</p>
+  <p>© rachitneedcse — Heart Disease Analysis</p>
 </footer>
 
 </body>
