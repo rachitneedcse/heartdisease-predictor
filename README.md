@@ -11,11 +11,12 @@
 
 <nav>
   <a href="#features">Features</a> |
+  <a href="#pics">Screenshots</a> |
   <a href="#dataset">Dataset</a> |
   <a href="#install">Installation</a> |
   <a href="#usage">Usage</a> |
-  <a href="#structure">Project Structure</a> |
-  <a href="#notes">Notes</a>
+  <a href="#structure">Project Structure</a> 
+  
 </nav>
 
 <section id="features">
